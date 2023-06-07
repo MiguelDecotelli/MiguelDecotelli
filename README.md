@@ -8,15 +8,13 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 
 ---
 
+## Github Progress
 <div align="center">
-  <h2><b>Github Progress</b></h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelDecotelli&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDecotelli&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-    
----
 
-<h2 align="center"><b><u>Current Set of Skills</u></b></h2>
+## Current Set of Skills
 
 <div style="display: inline_block">
     <h4>LANGUAGES:</h4>
@@ -45,7 +43,7 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 
 <div style="display: inline_block">
     <h4>CLOUD:</h4>
-    <img alt="AWS" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img alt="AWS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
 <div style="display: inline_block">
