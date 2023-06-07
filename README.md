@@ -12,7 +12,6 @@ The opportunity to participate in the creation of projects, innovate, collaborat
   <h2><b>Github Progress</b></h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelDecotelli&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDecotelli&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  
 </div>
     
 ---
@@ -40,8 +39,8 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 <div style="display: inline_block">
     <h4>RDBMS:</h4>
     <img alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-    <img alt="MySQL" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img alt="SQLite" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+    <img alt="MySQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img alt="SQLite" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
 </div>
 
 <div style="display: inline_block">
