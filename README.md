@@ -32,7 +32,7 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 <div style="display: inline_block">
     <h3>FRAMEWORKS:</h3>
     <img alt="flask" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="margin-top: 1em">
-    <img align="center" alt="PyTest" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" style="margin-top: 1em">
+    <img alt="PyTest" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" style="margin-top: 1em">
     <img alt="Angular" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="margin-top: 1em">
     <img alt="bootstrap" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin-top: 1em">
 </div>
@@ -40,14 +40,14 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 
 <div style="display: inline_block">
     <h3>RDBMS:</h3>
-    <img align="center" alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-top: 1.5em">
-    <img align="center" alt="MySQL" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin-top: .5em">
-    <img align="center" alt="SQLite" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="margin-top: 1em">
+    <img alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-top: 1.5em">
+    <img alt="MySQL" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin-top: .5em">
+    <img alt="SQLite" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="margin-top: 1em">
 </div>
 
 <div style="display: inline_block">
     <h3>CLOUD SERVICES:</h3>
-    <img align="center" alt="AWS" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="margin-top: 1em">
+    <img alt="AWS" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="margin-top: 1em">
 </div>
 
 <div style="display: inline_block">
@@ -59,9 +59,9 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 
 <div style="display: inline_block">
     <h3>IDEs:</h3>
-    <img align="center" alt="VSCode" height="40" width="auto" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-top: 1em">
-    <img align="center" alt="Sublime" height="40" width="auto" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-top: 1em">
-    <img align="center" alt="eclipse" height="40" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="margin-top: 1em">
+    <img align="center" alt="VSCode" height="30" width="auto" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-top: 1em">
+    <img align="center" alt="Sublime" height="30" width="auto" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-top: 1em">
+    <img align="center" alt="eclipse" height="30" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="margin-top: 1em">
 </div>
 
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-angelo-a-decotelli-silva/?locale=en_US" target="_blank"><img  height="20" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
