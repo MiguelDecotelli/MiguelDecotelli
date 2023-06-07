@@ -1,4 +1,4 @@
-###Welcome!
+### Welcome!
 
 ---
 
@@ -46,8 +46,8 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 </div>
 
 <div style="display: inline_block">
-    <h3>CLOUD SERVICES:</h3>
-    <img alt="AWS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <h3>CLOUD:</h3>
+    <img alt="AWS" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 <div style="display: inline_block">
@@ -59,9 +59,7 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 
 <div style="display: inline_block">
     <h3>IDEs:</h3>
-    <img align="center" alt="VSCode" height="30" width="auto" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="Sublime" height="30" width="auto" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img align="center" alt="eclipse" height="30" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+    <img align="center" alt="VSCode" height="20" width="auto" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="Sublime" height="20" width="auto" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+    <img align="center" alt="eclipse" height="20" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
-
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-angelo-a-decotelli-silva/?locale=en_US" target="_blank"><img  height="20" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
