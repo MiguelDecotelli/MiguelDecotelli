@@ -12,8 +12,7 @@ The opportunity to participate in the creation of projects, innovate, collaborat
   <h2><b>Github Progress</b></h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelDecotelli&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDecotelli&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://freepngimg.com/thumb/chrono_trigger/36546-4-chrono-trigger-transparent-image.png">
-  <img height="180em" src="https://static.wikia.nocookie.net/chrono/images/1/1f/Crono2.png/revision/latest?cb=20190402015515">
+  
 </div>
     
 ---
