@@ -40,8 +40,8 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 
 <div style="display: inline_block">
     <h3>RDBMS:</h3>
-    <img alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-top: 1.5em">
-    <img alt="MySQL" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin-top: .5em">
+    <img alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+    <img alt="MySQL" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img alt="SQLite" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
 </div>
 
