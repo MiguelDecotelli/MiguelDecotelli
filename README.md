@@ -47,7 +47,7 @@ The opportunity to participate in the creation of projects, innovate, collaborat
 
 <div style="display: inline_block">
     <h3>CLOUD SERVICES:</h3>
-    <img alt="AWS" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img alt="AWS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 <div style="display: inline_block">
