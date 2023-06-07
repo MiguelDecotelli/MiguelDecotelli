@@ -13,7 +13,7 @@ The opportunity to participate in the creation of projects, innovate, collaborat
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelDecotelli&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDecotelli&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   <img height="180em" src="https://freepngimg.com/thumb/chrono_trigger/36546-4-chrono-trigger-transparent-image.png">
-  <img height="180em" src="https://static.wikia.nocookie.net/chrono/images/1/1f/Crono2.png/revision/latest?cb=20190302015515">
+  <img height="180em" src="https://static.wikia.nocookie.net/chrono/images/1/1f/Crono2.png/revision/latest?cb=20190402015515">
 </div>
     
 ---
@@ -21,47 +21,47 @@ The opportunity to participate in the creation of projects, innovate, collaborat
   <h2 align="center"><b><u>Current Set of Skills</u></b></h2>
 
 <div style="display: inline_block">
-    <h3 style="vertical-align: middle">LANGUAGES:</h3>
-    <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-top: 1em">
-    <img alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin-top: 1em">
-    <img alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-top: 1em">
-    <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-top: 1em">
-    <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-top: 1em">
+    <h3>LANGUAGES:</h3>
+    <img alt="python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-top: 1em">
+    <img alt="typescript" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin-top: 1em">
+    <img alt="javascript" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-top: 1em">
+    <img alt="HTML" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-top: 1em">
+    <img alt="CSS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-top: 1em">
 </div>
 
 <div style="display: inline_block">
-    <h3 style="vertical-align: middle">FRAMEWORKS:</h3>
-    <img alt="flask" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="margin-top: 1em">
-    <img align="center" alt="PyTest" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" style="margin-top: 1em">
-    <img alt="Angular" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="margin-top: 1em">
-    <img alt="bootstrap" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin-top: 1em">
+    <h3>FRAMEWORKS:</h3>
+    <img alt="flask" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="margin-top: 1em">
+    <img align="center" alt="PyTest" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" style="margin-top: 1em">
+    <img alt="Angular" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="margin-top: 1em">
+    <img alt="bootstrap" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin-top: 1em">
 </div>
 
 
 <div style="display: inline_block">
-    <h3 style="vertical-align: middle">RDBMS:</h3>
-    <img align="center" alt="PostgreSQL" height="60" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-top: 1.5em">
-    <img align="center" alt="MySQL" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin-top: .5em">
-    <img align="center" alt="SQLite" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="margin-top: 1em">
+    <h3>RDBMS:</h3>
+    <img align="center" alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-top: 1.5em">
+    <img align="center" alt="MySQL" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin-top: .5em">
+    <img align="center" alt="SQLite" height="80" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="margin-top: 1em">
 </div>
 
 <div style="display: inline_block">
-    <h3 style="vertical-align: middle">CLOUD SERVICES:</h3>
+    <h3>CLOUD SERVICES:</h3>
     <img align="center" alt="AWS" height="90" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="margin-top: 1em">
 </div>
 
 <div style="display: inline_block">
-    <h3 style="vertical-align: middle">OS:</h3>
-    <img align="center" alt="Linux" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin-top: 1em">
-    <img align="center" alt="Ubuntu" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="margin-top: 1em">
-    <img align="center" alt="Windows" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="margin-top: 1em">
+    <h3>OS:</h3>
+    <img align="center" alt="Linux" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin-top: 1em">
+    <img align="center" alt="Ubuntu" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="margin-top: 1em">
+    <img align="center" alt="Windows" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="margin-top: 1em">
 </div>
 
 <div style="display: inline_block">
-    <h3 style="vertical-align: middle">IDEs:</h3>
-    <img align="center" alt="VSCode" height="30" width="auto" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-top: 1em">
-    <img align="center" alt="Sublime" height="30" width="auto" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-top: 1em">
-    <img align="center" alt="eclipse" height="30" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="margin-top: 1em">
+    <h3>IDEs:</h3>
+    <img align="center" alt="VSCode" height="40" width="auto" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-top: 1em">
+    <img align="center" alt="Sublime" height="40" width="auto" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-top: 1em">
+    <img align="center" alt="eclipse" height="40" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="margin-top: 1em">
 </div>
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-angelo-a-decotelli-silva/?locale=en_US" target="_blank"><img  height="20" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" style="vertical-align: middle"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-angelo-a-decotelli-silva/?locale=en_US" target="_blank"><img  height="20" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
