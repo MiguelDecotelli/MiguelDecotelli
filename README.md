@@ -60,5 +60,5 @@ The opportunity to participate in the creation of projects, innovate, collaborat
     <img align="center" alt="eclipse" height="20" width="auto" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/MiguelDecotelli/MiguelDecotelli/blob/output/github-contribution-grid-snake.vg)
+![Snake animation](https://github.com/MiguelDecotelli/MiguelDecotelli/blob/output/github-contribution-grid-snake.svg)
 
