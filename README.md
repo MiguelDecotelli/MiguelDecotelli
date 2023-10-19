@@ -1,3 +1,6 @@
+Welcome
+---
+
 Before diving headfirst into the world of programming, I had a successful career leading sales teams and achieving outstanding results in customer negotiations. However, I've felt an opportune moment has arisen, so I decided to immerse myself in the world of development, falling passionately in love with it!
 
 The opportunity to participate in the creation of projects, innovate, collaborate with brilliant minds, and constantly learn new technologies are some of the reasons that led me down to this new professional path. I am driven by the excitement of building something from scratch, creating efficient and innovative solutions for challenging problems, and continuously expanding my knowledge and skills. Check out my [Portfolio](https://miguel-decotelli.onrender.com).
