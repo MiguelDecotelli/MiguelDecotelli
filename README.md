@@ -1,10 +1,12 @@
-## Welcome!
-
----
-
 Before diving headfirst into the world of programming, I had a successful career leading sales teams and achieving outstanding results in customer negotiations. However, I've felt an opportune moment has arisen, so I decided to immerse myself in the world of development, falling passionately in love with it!
 
 The opportunity to participate in the creation of projects, innovate, collaborate with brilliant minds, and constantly learn new technologies are some of the reasons that led me down to this new professional path. I am driven by the excitement of building something from scratch, creating efficient and innovative solutions for challenging problems, and continuously expanding my knowledge and skills. Check out my [Portfolio](https://miguel-decotelli.onrender.com).
+
+---
+
+Antes de mergulhar de cabeça no mundo da programação, tive uma carreira bem-sucedida liderando equipes de vendas e obtendo resultados excepcionais em negociações com clientes. No entanto, senti que surgiu um momento oportuno e decidi me envolver no mundo do desenvolvimento, me apaixonando profundamente por ele!
+
+A oportunidade de participar na criação de projetos, inovar, colaborar com mentes brilhantes e aprender constantemente novas tecnologias são algumas das razões que me levaram a seguir este novo caminho profissional. Sou impulsionado pela empolgação de construir algo do zero, criar soluções eficientes e inovadoras para problemas desafiadores e continuar expandindo meu conhecimento e habilidades. Confira meu [Portfolio](https://miguel-decotelli.onrender.com).
 
 ---
 
